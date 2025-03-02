@@ -8,7 +8,7 @@ Sure! Below is a **well-structured church document** using **GitHub Flavored Mar
 In this blog We believe in faith, love, and community. Join us every Sunday for worship.
 
 *Bringing Light to the World*  
-![Church Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)  
+![Church Logo](/reg.jpg)
 
 ## **Church Attendance & Contribution Report**  
 **Date:** 2025-02-25  
